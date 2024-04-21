@@ -1,0 +1,10 @@
+# Ignore models directory
+models/
+
+# Ignore venv directory
+venv/
+
+# Ignore specific files
+app_copy.py
+requirements_copy.txt
+.env
